@@ -106,6 +106,7 @@
     .hero__section{
         min-height: 80vh;
     }
+    
     .hero__section__input__container{
         flex-direction: column;
         background-color: transparent;
